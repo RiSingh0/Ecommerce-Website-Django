@@ -7,9 +7,9 @@ It contain view a product, place an order, track an order and pay using payment 
 
 3) Review the product 
 
- Technology used
- 1)django
- 2)HTML
- 3)Bootstrap4
- 4)javascript
- 5)python
+ Technology used :       
+   1)django     
+   2)HTML     
+   3)Bootstrap4   
+   4)javascript   
+   5)python 
